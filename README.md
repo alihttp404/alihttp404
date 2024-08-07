@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate backend developer from Azerbaijn</h3>
+<h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [PetaByte](https://github.com/alihttp404/PetaByte_server)
 
